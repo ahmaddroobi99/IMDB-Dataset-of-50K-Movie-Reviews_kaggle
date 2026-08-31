@@ -1,19 +1,9 @@
-# IMDB-Dataset-of-50K-Movie-Reviews_kaggle
+# IMDB 50K movie-review sentiment — Fellowship.ai notebook
 
-Original Jupyter Notebook coursework / practice repository (2023).
+One Jupyter notebook (`Fellowship.ai/Fellowship.ai_NLP_Movie_Sentiment.ipynb`) for the Kaggle IMDB 50K movie-review sentiment task, done as a Fellowship.ai-style NLP exercise (2023).
 
-This repository is **original work** on this account. It is kept for provenance.
+A single-notebook practice run, not a sentiment product.
 
-It is **not** current research. Featured work:
+---
+Historical **early-career / fellowship practice** work (An-Najah National University, 2023). Private. Kept for provenance — not current research.
 
-- [qg-lada-lab](https://github.com/ahmaddroobi99/qg-lada-lab) — QG Lagrangian data assimilation
-- [ai-perception-lab](https://github.com/ahmaddroobi99/ai-perception-lab) — computer vision lab
-- Profile: [github.com/ahmaddroobi99](https://github.com/ahmaddroobi99)
-
-## Language
-
-Jupyter Notebook
-
-## Year
-
-2023
